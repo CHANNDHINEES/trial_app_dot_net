@@ -1,0 +1,7 @@
+C:\trial_ap\HelloWorldApp\obj\Debug\net7.0\HelloWorldApp.csproj.AssemblyReference.cache
+C:\trial_ap\HelloWorldApp\obj\Debug\net7.0\HelloWorldApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\trial_ap\HelloWorldApp\obj\Debug\net7.0\HelloWorldApp.AssemblyInfoInputs.cache
+C:\trial_ap\HelloWorldApp\obj\Debug\net7.0\HelloWorldApp.AssemblyInfo.cs
+C:\trial_ap\HelloWorldApp\obj\Debug\net7.0\HelloWorldApp.csproj.CoreCompileInputs.cache
+C:\trial_ap\HelloWorldApp\obj\Debug\net7.0\HelloWorldApp.MvcApplicationPartsAssemblyInfo.cs
+C:\trial_ap\HelloWorldApp\obj\Debug\net7.0\HelloWorldApp.MvcApplicationPartsAssemblyInfo.cache
